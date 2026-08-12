@@ -2,56 +2,56 @@
 ---
 This semi-repository contains notes about learning Python. This tutorial was developed with the latest stable version of Python 3.14.7. The course topics are as follows:
 -  Print
-	- [Document](https://github.com/Ahmadreza98/Projects/tree/main/python-learning/exercises/Print)
-	- [print]()
+	- [Document](https://github.com/Ahmadreza98/Projects/blob/main/python-learning/notes/Print.md)
+	- [print](https://github.com/Ahmadreza98/Projects/blob/main/python-learning/exercises/print.py)
 -  Data types
-	- [Document](https://github.com/Ahmadreza98/Projects/tree/main/python-learning/exercises/Data-Types)
+	- [Document](https://github.com/Ahmadreza98/Projects/blob/main/python-learning/notes/Data-Types.md)
 -  Comparison Operation
-	- [Document](https://github.com/Ahmadreza98/Projects/tree/main/python-learning/exercises/Comparison-Operators)
-	- [comparison-operators]()
+	- [Document](https://github.com/Ahmadreza98/Projects/blob/main/python-learning/notes/Comparison-Operators.md)
+	- [comparison-operators](https://github.com/Ahmadreza98/Projects/blob/main/python-learning/exercises/comparison-operators.py)
 -  Order Conditions & Loops
-	- [Document]()
+	- [Document](https://github.com/Ahmadreza98/Projects/blob/main/python-learning/notes/Order-Conditions-&-Loops.md)
 	- [Examples]()
-		- [constitutional-store]()
-		- [magic-loop]()
-		- [magic-machine]()
-		- [talisman-of-magic-number]()
+		- [constitutional-store](https://github.com/Ahmadreza98/Projects/blob/main/python-learning/exercises/constitutional-store.py)
+		- [magic-loop](https://github.com/Ahmadreza98/Projects/blob/main/python-learning/exercises/magic-loop.py)
+		- [magic-machine](https://github.com/Ahmadreza98/Projects/blob/main/python-learning/exercises/magic-machine.py)
+		- [talisman-of-magic-number](https://github.com/Ahmadreza98/Projects/blob/main/python-learning/exercises/talisman-of-magic-number.py)
 -  Function
-	- [Document](https://github.com/Ahmadreza98/Projects/tree/main/python-learning/exercises/Function)
+	- [Document](https://github.com/Ahmadreza98/Projects/blob/main/python-learning/notes/Function.md)
 	- [Examples]()
-		- [hello-function]()
-		- [hello-name]()
-		- [higher-of-tower]()
-		- [large-or-small]()
-		- [odd-or-even]()
-		- [pick-even]()
-		- [positive-or-negetive]()
-		- [sum-of-square]()
-		- [args-exercise]()
+		- [hello-function](https://github.com/Ahmadreza98/Projects/blob/main/python-learning/exercises/hello-function.py)
+		- [hello-name](https://github.com/Ahmadreza98/Projects/blob/main/python-learning/exercises/hello-name.py)
+		- [higher-of-tower](https://github.com/Ahmadreza98/Projects/blob/main/python-learning/exercises/higher-of-tower.py)
+		- [large-or-small](https://github.com/Ahmadreza98/Projects/blob/main/python-learning/exercises/large-or-small.py)
+		- [odd-or-even](https://github.com/Ahmadreza98/Projects/blob/main/python-learning/exercises/odd-or-even.py)
+		- [pick-even](https://github.com/Ahmadreza98/Projects/blob/main/python-learning/exercises/pick-even.py)
+		- [positive-or-negetive](https://github.com/Ahmadreza98/Projects/blob/main/python-learning/exercises/positive-or-negetive.py)
+		- [sum-of-square](https://github.com/Ahmadreza98/Projects/blob/main/python-learning/exercises/sum-of-square.py)
+		- [args-exercise](https://github.com/Ahmadreza98/Projects/blob/main/python-learning/exercises/args-exercise.py)
 -  OOP
-	- [Document](https://github.com/Ahmadreza98/Projects/tree/main/python-learning/exercises/OOP)
-	- [zoo-management]()
+	- [Document](https://github.com/Ahmadreza98/Projects/blob/main/python-learning/notes/OOP.md)
+	- [zoo-management](https://github.com/Ahmadreza98/Projects/blob/main/python-learning/exercises/zoo-management.py)
 -  Introduction of Packages
-	- [Document](https://github.com/Ahmadreza98/Projects/tree/main/python-learning/exercises/Introduction-Package)
-	- [introduction-package]()
+	- [Document](https://github.com/Ahmadreza98/Projects/blob/main/python-learning/notes/Introduction-Package.md)
+	- [introduction-package](https://github.com/Ahmadreza98/Projects/blob/main/python-learning/exercises/introduction-package.py)
 -  Error Handling
-	- [Document](https://github.com/Ahmadreza98/Projects/tree/main/python-learning/exercises/Error-Handling)
-	- [Improved-exception-handling]()
+	- [Document](https://github.com/Ahmadreza98/Projects/blob/main/python-learning/notes/Error-Handling.md)
+	- [Improved-exception-handling](https://github.com/Ahmadreza98/Projects/blob/main/python-learning/exercises/Improved-exception-handling.py)
 -  Decorator
-	- [Document](https://github.com/Ahmadreza98/Projects/tree/main/python-learning/exercises/Decorator)
-	- [decorators]()
+	- [Document](https://github.com/Ahmadreza98/Projects/blob/main/python-learning/notes/Decorator.md)
+	- [decorators](https://github.com/Ahmadreza98/Projects/blob/main/python-learning/exercises/decorators.py)
 -  Generator
-	- [Document](https://github.com/Ahmadreza98/Projects/tree/main/python-learning/exercises/Generator)
+	- [Document](https://github.com/Ahmadreza98/Projects/blob/main/python-learning/notes/Generator.md)
 -  Professional Modules
-	- [Document](Professional Modules)
+	- [Document](https://github.com/Ahmadreza98/Projects/blob/main/python-learning/notes/Professional-Modules.md)
 -  WEB Scrapy
-	- [Document](https://github.com/Ahmadreza98/Projects/tree/main/python-learning/exercises/WEB-Scarpy)
-	- [web-scrapy]()
+	- [Document](https://github.com/Ahmadreza98/Projects/blob/main/python-learning/notes/WEB-Scarpy.md)
+	- [web-scrapy](https://github.com/Ahmadreza98/Projects/blob/main/python-learning/exercises/web-scrapy.py)
 -  Pillow
-	- [Document](https://github.com/Ahmadreza98/Projects/blob/main/python-learning/exercises/Pillow.md)
+	- [Document](https://github.com/Ahmadreza98/Projects/blob/main/python-learning/notes/Pillow.md)
 -  Data
-	- [Document](https://github.com/Ahmadreza98/Projects/tree/main/python-learning/exercises/Read-Data)
-	- [read-data]()
+	- [Document](https://github.com/Ahmadreza98/Projects/blob/main/python-learning/notes/Read-Data.md)
+	- [read-data](https://github.com/Ahmadreza98/Projects/blob/main/python-learning/exercises/read-data.py)
 -  Final Project
 	- [Document](https://github.com/Ahmadreza98/Projects/tree/main/python-learning/projects)
 	- [todo-list-project](https://github.com/Ahmadreza98/Projects/blob/main/python-learning/projects/todo-list-project.py)
