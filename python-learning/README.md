@@ -48,7 +48,7 @@ This semi-repository contains notes about learning Python. This tutorial was dev
 	- [Document](https://github.com/Ahmadreza98/Projects/tree/main/python-learning/exercises/WEB-Scarpy)
 	- [web-scrapy]()
 -  Pillow
-	- [Document](https://github.com/Ahmadreza98/Projects/tree/main/python-learning/exercises/Pillow)
+	- [Document](https://github.com/Ahmadreza98/Projects/blob/main/python-learning/exercises/Pillow.md)
 -  Data
 	- [Document](https://github.com/Ahmadreza98/Projects/tree/main/python-learning/exercises/Read-Data)
 	- [read-data]()
