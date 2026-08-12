@@ -2,12 +2,12 @@
 ---
 This semi-repository contains notes about learning Python. This tutorial was developed with the latest stable version of Python 3.14.7. The course topics are as follows:
 -  Print
-	- [Document](notes/Print)
+	- [Document](https://github.com/Ahmadreza98/Projects/tree/main/python-learning/exercises/Print)
 	- [print]()
 -  Data types
-	- [Document](notes/Data-Types)
+	- [Document](https://github.com/Ahmadreza98/Projects/tree/main/python-learning/exercises/Data-Types)
 -  Comparison Operation
-	- [Document](notes/Comparison-Operators)
+	- [Document](https://github.com/Ahmadreza98/Projects/tree/main/python-learning/exercises/Comparison-Operators)
 	- [comparison-operators]()
 -  Order Conditions & Loops
 	- [Document]()
@@ -17,7 +17,7 @@ This semi-repository contains notes about learning Python. This tutorial was dev
 		- [magic-machine]()
 		- [talisman-of-magic-number]()
 -  Function
-	- [Document](notes/Function)
+	- [Document](https://github.com/Ahmadreza98/Projects/tree/main/python-learning/exercises/Function)
 	- [Examples]()
 		- [hello-function]()
 		- [hello-name]()
@@ -29,29 +29,29 @@ This semi-repository contains notes about learning Python. This tutorial was dev
 		- [sum-of-square]()
 		- [args-exercise]()
 -  OOP
-	- [Document](notes/OOP)
+	- [Document](https://github.com/Ahmadreza98/Projects/tree/main/python-learning/exercises/OOP)
 	- [zoo-management]()
 -  Introduction of Packages
-	- [Document](notes/Introduction-Package)
+	- [Document](https://github.com/Ahmadreza98/Projects/tree/main/python-learning/exercises/Introduction-Package)
 	- [introduction-package]()
 -  Error Handling
-	- [Document](notes/Error-Handling)
+	- [Document](https://github.com/Ahmadreza98/Projects/tree/main/python-learning/exercises/Error-Handling)
 	- [Improved-exception-handling]()
 -  Decorator
-	- [Document](notes/Decorator)
+	- [Document](https://github.com/Ahmadreza98/Projects/tree/main/python-learning/exercises/Decorator)
 	- [decorators]()
 -  Generator
-	- [Document](notes/Generator)
+	- [Document](https://github.com/Ahmadreza98/Projects/tree/main/python-learning/exercises/Generator)
 -  Professional Modules
 	- [Document](Professional Modules)
 -  WEB Scrapy
-	- [Document](notes/WEB-Scarpy)
+	- [Document](https://github.com/Ahmadreza98/Projects/tree/main/python-learning/exercises/WEB-Scarpy)
 	- [web-scrapy]()
 -  Pillow
-	- [Document](notes/Pillow)
+	- [Document](https://github.com/Ahmadreza98/Projects/tree/main/python-learning/exercises/Pillow)
 -  Data
-	- [Document](notes/Read-Data)
+	- [Document](https://github.com/Ahmadreza98/Projects/tree/main/python-learning/exercises/Read-Data)
 	- [read-data]()
 -  Final Project
-	- [Document](projects/README)
-	- [todo-list-project]()
+	- [Document](https://github.com/Ahmadreza98/Projects/tree/main/python-learning/projects)
+	- [todo-list-project](https://github.com/Ahmadreza98/Projects/blob/main/python-learning/projects/todo-list-project.py)
