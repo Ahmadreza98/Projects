@@ -1,0 +1,57 @@
+# python-learning
+---
+This semi-repository contains notes about learning Python. This tutorial was developed with the latest stable version of Python 3.14.7. The course topics are as follows:
+-  Print
+	- [Document](notes/Print)
+	- [print]()
+-  Data types
+	- [Document](notes/Data-Types)
+-  Comparison Operation
+	- [Document](notes/Comparison-Operators)
+	- [comparison-operators]()
+-  Order Conditions & Loops
+	- [Document]()
+	- [Examples]()
+		- [constitutional-store]()
+		- [magic-loop]()
+		- [magic-machine]()
+		- [talisman-of-magic-number]()
+-  Function
+	- [Document](notes/Function)
+	- [Examples]()
+		- [hello-function]()
+		- [hello-name]()
+		- [higher-of-tower]()
+		- [large-or-small]()
+		- [odd-or-even]()
+		- [pick-even]()
+		- [positive-or-negetive]()
+		- [sum-of-square]()
+		- [args-exercise]()
+-  OOP
+	- [Document](notes/OOP)
+	- [zoo-management]()
+-  Introduction of Packages
+	- [Document](notes/Introduction-Package)
+	- [introduction-package]()
+-  Error Handling
+	- [Document](notes/Error-Handling)
+	- [Improved-exception-handling]()
+-  Decorator
+	- [Document](notes/Decorator)
+	- [decorators]()
+-  Generator
+	- [Document](notes/Generator)
+-  Professional Modules
+	- [Document](Professional Modules)
+-  WEB Scrapy
+	- [Document](notes/WEB-Scarpy)
+	- [web-scrapy]()
+-  Pillow
+	- [Document](notes/Pillow)
+-  Data
+	- [Document](notes/Read-Data)
+	- [read-data]()
+-  Final Project
+	- [Document](projects/README)
+	- [todo-list-project]()
