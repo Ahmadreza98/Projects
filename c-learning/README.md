@@ -1,0 +1,61 @@
+This semi-repository contains notes about learning programming language **C**. It also includes a number of projects. This course is taught by Bro Code on their [YouTube channel](https://www.youtube.com/watch?v=xND0t1pr3KY). The course topics are as follows:
+- Prelude
+	- [Docs]()
+- Get Started
+	- [Docs]()
+	- [Example]()
+- Variables
+	- [Docs]()
+	- [Example]()
+- Arithmetic Operation
+	- [Docs]()
+	- [Example]()
+- User Input
+	- [Docs]()
+	- [Example]()
+- IF Statement
+	- [Docs]()
+	- [Example]()
+- Switch Case
+	- [Docs]()
+	- [Example]()
+- Functions
+	- [Docs]()
+	- [Example]()
+- Variable Scope
+	- [Docs]()
+	- [Example]()
+- Function Prototype
+	- [Docs]()
+	- [Example]()
+- While Loop
+	- [Docs]()
+	- [Example]()
+- For Loop
+	- [Docs]()
+	- [Example]()
+- Break/Continue
+	- [Docs]()
+	- [Example]()
+- Nested Loop
+	- [Docs]()
+	- [Example]()
+- Array
+	- [Docs]()
+	- [Example]()
+- 2D-Array
+	- [Docs]()
+	- [Example]()
+- Ternary Operators (if-else)
+	- [Docs]()
+	- [Example]()
+- typedef
+	- [Docs]()
+	- [Example]()
+- Enum
+	- [Docs]()
+	- [Example]()
+- Struct
+	- [Docs]()
+	- [Example]()
+- 6
