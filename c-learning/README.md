@@ -1,66 +1,66 @@
-This semi-repository contains notes about learning programming language **C**. It also includes a number of projects. This course is taught by Bro Code on their [YouTube channel](https://www.youtube.com/watch?v=xND0t1pr3KY). The course topics are as follows:
+This semi-repository contains notes about learning a programming language **C**. It also includes a number of projects. This course is taught by Bro Code on their [YouTube channel](https://www.youtube.com/watch?v=xND0t1pr3KY). The course topics are as follows:
 - Prelude
-	- [Docs]()
+	- [Docs](https://github.com/Ahmadreza98/Projects/blob/main/c-learning/notes/Prelude.md)
 - Get Started
-	- [Docs]()
-	- [Example]()
+	- [Docs](https://github.com/Ahmadreza98/Projects/blob/main/c-learning/notes/Getting-Started.md)
+	- [Example](https://github.com/Ahmadreza98/Projects/blob/main/c-learning/exercises/getting-started.c)
 - Variables
-	- [Docs]()
-	- [Example]()
+	- [Docs](https://github.com/Ahmadreza98/Projects/blob/main/c-learning/notes/Variables.md)
+	- [Example](https://github.com/Ahmadreza98/Projects/blob/main/c-learning/exercises/variables.c)
 - Arithmetic Operation
-	- [Docs]()
-	- [Example]()
+	- [Docs](https://github.com/Ahmadreza98/Projects/blob/main/c-learning/notes/Arithmetic-Operation.md)
+	- [Example](https://github.com/Ahmadreza98/Projects/blob/main/c-learning/exercises/arithmetic_operation.c)
 - User Input
-	- [Docs]()
-	- [Example]()
+	- [Docs](https://github.com/Ahmadreza98/Projects/blob/main/c-learning/notes/User-Input.md)
+	- [Example](https://github.com/Ahmadreza98/Projects/blob/main/c-learning/exercises/user_input.c)
 - IF Statement
-	- [Docs]()
-	- [Example]()
+	- [Docs](https://github.com/Ahmadreza98/Projects/blob/main/c-learning/notes/IF_Statement.md)
+	- [Example](https://github.com/Ahmadreza98/Projects/blob/main/c-learning/exercises/if_statement.c)
 - Switch Case
-	- [Docs]()
-	- [Example]()
+	- [Docs](https://github.com/Ahmadreza98/Projects/blob/main/c-learning/notes/Switch-Case.md)
+	- [Example](https://github.com/Ahmadreza98/Projects/blob/main/c-learning/exercises/switch_case.c)
 - Functions
-	- [Docs]()
-	- [Example]()
+	- [Docs](https://github.com/Ahmadreza98/Projects/blob/main/c-learning/notes/Functions.md)
+	- [Example](https://github.com/Ahmadreza98/Projects/blob/main/c-learning/exercises/functions.c)
 - Variable Scope
-	- [Docs]()
-	- [Example]()
+	- [Docs](https://github.com/Ahmadreza98/Projects/blob/main/c-learning/notes/Variable-Scope.md)
+	- [Example](https://github.com/Ahmadreza98/Projects/blob/main/c-learning/exercises/variable_scope.c)
 - Function Prototype
-	- [Docs]()
-	- [Example]()
+	- [Docs](https://github.com/Ahmadreza98/Projects/blob/main/c-learning/notes/Function-Prototype.md)
+	- [Example](https://github.com/Ahmadreza98/Projects/blob/main/c-learning/exercises/function_prototype.c)
 - While Loop
-	- [Docs]()
-	- [Example]()
+	- [Docs](https://github.com/Ahmadreza98/Projects/blob/main/c-learning/notes/While-Loop.md)
+	- [Example](https://github.com/Ahmadreza98/Projects/blob/main/c-learning/exercises/while_loop.c)
 - For Loop
-	- [Docs]()
-	- [Example]()
+	- [Docs](https://github.com/Ahmadreza98/Projects/blob/main/c-learning/notes/For-Loop.md)
+	- [Example](https://github.com/Ahmadreza98/Projects/blob/main/c-learning/exercises/for_loop.c)
 - Break/Continue
-	- [Docs]()
-	- [Example]()
+	- [Docs](https://github.com/Ahmadreza98/Projects/blob/main/c-learning/notes/Break-Continue.md)
+	- [Example](https://github.com/Ahmadreza98/Projects/blob/main/c-learning/exercises/break_and_continue.c)
 - Nested Loop
-	- [Docs]()
-	- [Example]()
+	- [Docs](https://github.com/Ahmadreza98/Projects/blob/main/c-learning/notes/Nested-Loop.md)
+	- [Example](https://github.com/Ahmadreza98/Projects/blob/main/c-learning/exercises/nested_loop.c)
 - Array
-	- [Docs]()
-	- [Example]()
+	- [Docs](https://github.com/Ahmadreza98/Projects/blob/main/c-learning/notes/Array.md)
+	- [Example](https://github.com/Ahmadreza98/Projects/blob/main/c-learning/exercises/array.c)
 - 2D-Array
-	- [Docs]()
-	- [Example]()
+	- [Docs](https://github.com/Ahmadreza98/Projects/blob/main/c-learning/notes/2D-Array.md)
+	- [Example](https://github.com/Ahmadreza98/Projects/blob/main/c-learning/exercises/2d_array.c)
 - Ternary Operators (if-else)
-	- [Docs]()
-	- [Example]()
-- typedef
-	- [Docs]()
-	- [Example]()
+	- [Docs](https://github.com/Ahmadreza98/Projects/blob/main/c-learning/notes/Ternary-Operators.md)
+	- [Example](https://github.com/Ahmadreza98/Projects/blob/main/c-learning/exercises/ternary_operators.c)
+- Typedef
+	- [Docs](https://github.com/Ahmadreza98/Projects/blob/main/c-learning/notes/Typedef.md)
+	- [Example](https://github.com/Ahmadreza98/Projects/blob/main/c-learning/exercises/typedef.c)
 - Enum
-	- [Docs]()
-	- [Example]()
+	- [Docs](https://github.com/Ahmadreza98/Projects/blob/main/c-learning/notes/Enum.md)
+	- [Example](https://github.com/Ahmadreza98/Projects/blob/main/c-learning/exercises/enum.c)
 - Struct
-	- [Docs]()
-	- [Example]()
+	- [Docs](https://github.com/Ahmadreza98/Projects/blob/main/c-learning/notes/Struct.md)
+	- [Example](https://github.com/Ahmadreza98/Projects/blob/main/c-learning/exercises/struct.c)
 - Pointer
-	- [Docs]()
-	- [Example]()
+	- [Docs](https://github.com/Ahmadreza98/Projects/blob/main/c-learning/notes/Pointer.md)
+	- [Example](https://github.com/Ahmadreza98/Projects/blob/main/c-learning/exercises/pointer.c)
 - File Handling
-	- [Docs]()
-	- [Example]()
+	- [Docs](https://github.com/Ahmadreza98/Projects/blob/main/c-learning/notes/File-Handling.md)
+	- [Example](https://github.com/Ahmadreza98/Projects/blob/main/c-learning/exercises/file_handling.c)
