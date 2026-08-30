@@ -58,4 +58,9 @@ This semi-repository contains notes about learning programming language **C**. I
 - Struct
 	- [Docs]()
 	- [Example]()
-- 6
+- Pointer
+	- [Docs]()
+	- [Example]()
+- File Handling
+	- [Docs]()
+	- [Example]()

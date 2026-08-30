@@ -1,0 +1,92 @@
+This folder contains projects implemented in C. The project titles and descriptions are as follows:
+- Simple Calculator
+	- [Docs]()
+	- [Project]()
+- Odd or Even
+	- [Docs]()
+	- [Project]()
+- Average of Five Number
+	- [Docs]()
+	- [Project]()
+- Multiplication Table
+	- [Docs]()
+	- [Project]()
+- Factorial Calculator
+	- [Docs]()
+	- [Project]()
+- Power Calculator
+	- [Docs]()
+	- [Project]()
+- Sum Number
+	- [Docs]()
+	- [Project]()
+- Maximum Number
+	- [Docs]()
+	- [Project]()
+- Celsius to Fahrenheit Converter
+	- [Docs]()
+	- [Project]()
+- Area of Shape Calculator
+	- [Docs]()
+	- [Project]()
+- Digit Counter
+	- [Docs]()
+	- [Project]()
+- Reverse Number
+	- [Docs]()
+	- [Project]()
+- Sum of Digits in a Number
+	- [Docs]()
+	- [Project]()
+- Prime Number Checker
+	- [Docs]()
+	- [Project]()
+- Fibonacci Series Generator
+	- [Docs]()
+	- [Project]()
+- Palindrome Number Checker
+	- [Docs]()
+	- [Project]()
+- Greatest Common Divisor Calculator
+	- [Docs]()
+	- [Project]()
+- Least Common Multiple Calculator
+	- [Docs]()
+	- [Project]()
+- Digit Frequency Counter
+	- [Docs]()
+	- [Project]()
+- Armstrong Number Checker
+	- [Docs]()
+	- [Project]()
+- Simple Number Guessing Game
+	- [Docs]()
+	- [Project]()
+- Menu Driven Calculator
+	- [Docs]()
+	- [Project]()
+- Array Statistics Analyzer
+	- [Docs]()
+	- [Project]()
+- Array Sorting Program
+	- [Docs]()
+	- [Project]()
+- Array Element Search
+	- [Docs]()
+	- [Project]()
+- Binary search in Sort Array
+	- [Docs]()
+	- [Project]()
+- Merge Two Array Sorted
+	- [Docs]()
+	- [Project]()
+- Merge Sort Implementation
+	- [Docs]()
+	- [Project]()
+- Quick Sort Implementation
+	- [Docs]()
+	- [Project]()
+- Counting Occurrences of Elements
+	- [Docs]()
+	- [Project]()
+
